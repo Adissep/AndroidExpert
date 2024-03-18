@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">ChillGoApp</string>
+    <string name="chill_go_app">ChillGo App</string>
+    <string name="setup_your_account">Set up your account</string>
+    <string name="log_in_to_your_setup_account">Log in to your Set up your account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="first_name">User Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password\n</string>
+    <string name="terms_conditions">By continuing you accept our Privacy Policy and Term of Use</string>
+    <string name="terms_conditions_header">Term of Use</string>
+    <string name="login">Login</string>
+    <string name="register">Sign Up</string>
+    <string name="or_better_yet">" Or better yet "</string>
+    <string name="go_to_login_page">Already have an account? Login</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="reset_password">Reset your password</string>
+
+    <string name="lembang_parkandzoo">Kalau kamu ingin berkunjung ke kebun binatang dengan gaya modern, Lembang Park and Zoo tempatnya. Berdiri di lahan seluas 25 hektar, ada sekitar 350 ekor binatang yang terdiri dari pisces, reptilia, aves hingga mamalia.</string>
+    <string name="the_great_asia_afrika">The Great Asia Afrika menawarkan sensasi berkeliling ke tujuh negara. Jadi, wisatawan bisa melihat replika bangunan dari negara India, Korea Selatan, Jepang hingga Timur Tengah.</string>
+    <string name="lembang_wonderland">Lembang Wonderland menjadi tempat wisata yang menyerupai negeri dongeng dengan area berwarna-warni. Konsep yang diusung adalah taman rekreasi Glow in The Dark, sebab, saat malam hari gemerlap lampu warna-warni yang begitu cantik.</string>
+    <string name="panama_park">Panama Park disebut-sebut menjadi wahana rekreasi terbesar di Bandung. Beberapa permainan yang ditawarkan mulai dari playground hingga snow park yang berisi salju.</string>
+    <string name="farmhouse_lembang">Liburan bernuansa Eropa bisa kamu dapatkan di Farmhouse Lembang. Seperti The Great Asia Afrika, destinasi ini juga menyewakan kostum yang bisa disewa untuk pengunjung.</string>
+    <string name="floating_market">Floating Market merupakan wisata kuliner yang mengusung konsep perahu apung. Wisatawan bisa menikmati berbagai jenis makanan dan minuman dengan pemandangan danau.</string>
+    <string name="dago_dream_park">Dago Dream Park memiliki nuansa pegunungan dengan pemandangan pohon pinus yang asri dan menyejukkan. Luasnya mencapai 13 hektar.Beberapa wahananya yaitu sky gliding atau flying fox, wall climbing, paintball, pertandingan tembak-menembak hingga Tarzan cross yang mengajakmu melewati jalur di atas ketinggian. Selain itu ada wahana selfie seperti up house, aladdin carpet hingga tinkerbell wings.</string>
+    <string name="grafika_cikole">Kawasan ini menyuguhkan berbagai wahana permainan mulai dari flying fox, flying board dan masih banyak lagi. Lokasinya berada di Jalan Tangkuban Perahu KM.8, Cikole, Lembang, Bandung Barat. Tiket masuknya adalah Rp 20.000.</string>
+    <string name="trans_studio_bandung">Wisata indoor juga bisa menjadi pilihan untuk berwisata bersama keluarga. Trans Studio Bandung memiliki banyak wahana, mulai dari yang mengedukasi hingga menantang adrenalin.</string>
+    <string name="bukit_bintang">Bukit bintang cocok untuk traveler yang suka berfoto-foto dengan latar pemandangan alam. Memiliki luas 12,20 hektar, bukit bintang memiliki hutan pinus dan jalan setapak.</string>
+    <string name="tangkuban_perahu">Tangkuban Perahu atau Tangkuban Parahu merupakan salah satu destinasi wisata yang banyak dikunjungi oleh masyarakat, baik turis lokal maupun asing. Dikutip dari situs Indonesai Kaya, gunung ini terletak di ketinggian 2.048 mdpl dengan suhu normalnya sekitar 17 derajat Celcius. Udanya sangat dingin sehingga pengunjung disarankan menggunakan jaket dan celana panjang.</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="required_point">Rp %d</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp %d</string>
+    <string name="total_order">Total pesanan : Rp %d</string>
+    <string name="back">Back</string>
+    <string name="subject_ticket">Reservasi/Booking Wisata</string>
+    <string name="share_message">Hallo Admin, Saya ingin reservasi/booking untuk %1$d tiket dengan total Rp. %2$d. Apakah tersedia?</string>
+
+    <string name="placeholder_search">Cari kebutuhanmu disini!</string>
+    <string name="nearby_tours">Wisata Terdekat Untuk Anda</string>
+    <string name="list_favorite_menu">Daftar Favorit Anda</string>
+    <string name="frequently_visited">Yang Sering Dikunjungi</string>
+    <string name="keranjang_masih_kosong">Keranjang masih kosong!</string>
+    <string name="last_one_you_visited">Last one you visited</string>
+
+    <string name="continue_google">Continue with Google</string>
+    <string name="continue_facebook">Continue with Facebook</string>
+    <string name="location">Lokasi user</string>
+    <string name="more">More</string>
+    <string name="berdasar_kota">Berdasarkan Kota</string>
+    <string name="favorite">Favorites</string>
+    <string name="last_visit">Terakhir yang anda kunjungi</string>
+    <string name="review_history">Riwayat Ulasan</string>
+</resources>
